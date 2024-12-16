@@ -1,0 +1,49 @@
+{
+  "contatos": [
+    {
+      "nome": "Maria",
+      "telefone": "99 99999999",
+      "email": "maria@email.com",
+      "aniversario": "1995-06-01",
+      "redes": "",
+      "observacoes": "",
+      "id": "1"
+    },
+    {
+      "nome": "João",
+      "telefone": "88 88888888",
+      "email": "joao@email.com",
+      "aniversario": "1990-01-06",
+      "redes": "",
+      "observacoes": "",
+      "id": "2"
+    },
+    {
+      "nome": "Pedro",
+      "telefone": "990322400",
+      "email": "pedro@teste.com",
+      "aniversario": "2024-08-12",
+      "redes": "",
+      "observacoes": "",
+      "id": "5"
+    },
+    {
+      "nome": "A Sardinha",
+      "telefone": "12938476",
+      "email": "sardim@sardim.com",
+      "aniversario": "2017-06-13",
+      "redes": "",
+      "observacoes": "",
+      "id": "6"
+    },
+    {
+      "nome": "A Cuscuzinha",
+      "telefone": "3930930",
+      "email": "sardim@sardim.com",
+      "aniversario": "2024-07-29",
+      "redes": "sardim.com",
+      "observacoes": "A Sardinha é fuleragem.",
+      "id": "7"
+    }
+  ]
+}
